@@ -1,0 +1,6 @@
+# ignore builded exe files
+*.exe
+# ignore generated .txt files
+*.txt
+# except test.txt
+!test.txt
